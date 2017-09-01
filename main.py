@@ -7,7 +7,6 @@ This is a temporary script file.
 import numpy as np
 import OpenOPC as op
 
-#OPC_Server_Name_def='KEPware.KEPServerEx.V4'
 Connect_Flag=False
 config_filename='tosave.csv'
 index=0
